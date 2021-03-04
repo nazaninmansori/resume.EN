@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/80045623?s=400&u=05b5704b89547166476e5ae337a90ef464b508da&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/nazaninmansori/resume.EN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am nazanin mansori
+I am studying software engineering at PNU Varamin University.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: nazanin
+- Last Name: mansori
+- Birth Date: 2000
+- Marriage Status: Single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
++ C++
 
-- Bulleted
-- List
++ HTML
 
-1. Numbered
-2. List
+### Languages
 
-**Bold** and _Italic_ and `Code` text
+- Persian(Advanced)
+- English(Normal)
 
-[Link](url) and ![Image](src)
-```
+### Other Accounts
+-Gmail: nazaninmansor407@gmail.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Quera Profile: <a href="https://quera.ir/profile/nazaninmansori">My Profile</a>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nazaninmansori/resume.EN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  Persian Resume: <a href=""> Resume </a>
