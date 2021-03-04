@@ -28,4 +28,4 @@ I am studying software engineering at PNU Varamin University.
 
 - Quera Profile: <a href="https://quera.ir/profile/nazaninmansori">My Profile</a>
 
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://nazaninmansori.github.io/resume.FA/"> Resume </a>
