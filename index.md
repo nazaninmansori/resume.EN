@@ -24,7 +24,7 @@ I am studying software engineering at PNU Varamin University.
 - English(Normal)
 
 ### Other Accounts
--Gmail: nazaninmansor407@gmail.com
+- Gmail: nazaninmansor407@gmail.com
 
 - Quera Profile: <a href="https://quera.ir/profile/nazaninmansori">My Profile</a>
 
